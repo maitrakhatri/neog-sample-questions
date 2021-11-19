@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+:root {
+    --cusprimary: #fcba03;
+    --cussecondary: #3d03fc;
+}
+
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    color: var(--cusprimary);
+}
+
+h2 {
+    color: var(--cussecondary);
+}
+
+#p {
+    background-color: var(--cusprimary);
+}
+
+#s {
+    background-color: var(--cussecondary);
+}
